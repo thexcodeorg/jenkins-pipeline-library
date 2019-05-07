@@ -1,1 +1,2 @@
-# jenkins_shared_lib
+# jenkins_library
+This contains the shared functions.
